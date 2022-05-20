@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="xf_stereolbm_config.h" path="/home/louis/HLS_Course/Test/stereo_bm_strm/xf_stereolbm_config.h"/>
+    <originFiles name="xf_stereolbm_accel.cpp" path="/home/louis/HLS_Course/Test/stereo_bm_strm/xf_stereolbm_accel.cpp"/>
+  </source>
+  <testbench>
+    <originFiles name="xf_stereolbm_tb.cpp" path="/home/louis/HLS_Course/Test/stereo_bm_strm/xf_stereolbm_tb.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>

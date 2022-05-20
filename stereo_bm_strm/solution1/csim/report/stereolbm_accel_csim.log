@@ -1,0 +1,9 @@
+INFO: [SIM 2] *************** CSIM start ***************
+INFO: [SIM 4] CSIM will launch GCC as the compiler.
+   Compiling ../../../xf_stereolbm_accel.cpp in debug mode
+   Generating csim.exe
+	Minimum error in intensity = 0
+	Maximum error in intensity = 0
+	Percentage of pixels above error threshold = 0
+INFO: [SIM 1] CSim done with 0 errors.
+INFO: [SIM 3] *************** CSIM finish ***************

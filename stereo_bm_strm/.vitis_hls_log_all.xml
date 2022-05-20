@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vivadoHLSLog:LogRoot xmlns:vivadoHLSLog="www.xilinx.com/vivadoHLSLog">
+  <errorLogs>
+    <logs>
+      <csimLog>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-21T01:47:55.694+0800"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-21T01:47:09.725+0800"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-21T01:14:41.305+0800"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-21T01:03:26.191+0800"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-21T00:53:06.910+0800"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-21T00:49:39.594+0800"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-21T00:49:04.084+0800"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-21T00:43:55.865+0800"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-21T00:38:02.434+0800"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-21T00:33:07.832+0800"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-21T00:27:30.508+0800"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-21T00:26:26.878+0800"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-21T00:25:11.070+0800"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-21T00:24:04.219+0800"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-21T00:23:39.111+0800"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-21T00:20:51.306+0800"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-21T00:15:31.325+0800"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-21T00:14:20.038+0800"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-21T00:09:52.086+0800"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-21T00:08:32.168+0800"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-21T00:02:47.995+0800"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-20T23:42:31.628+0800"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-20T23:31:59.862+0800"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-20T23:09:41.354+0800"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-20T21:03:56.040+0800"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-20T21:02:31.938+0800"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-20T20:59:46.881+0800"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-20T20:58:27.571+0800"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-20T20:57:56.999+0800"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-20T20:57:15.055+0800"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-20T20:45:04.580+0800"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-20T20:43:06.302+0800"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-20T20:42:26.828+0800"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-20T20:41:02.842+0800"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-20T20:38:00.443+0800"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-20T17:18:32.718+0800"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-20T17:14:35.671+0800"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-20T17:09:36.142+0800"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-20T17:05:59.648+0800"/>
+      </csimLog>
+    </logs>
+  </errorLogs>
+  <warningLogs>
+    <logs>
+      <csimLog>
+        <logs message="WARNING: Hls::stream 'hls::stream&lt;axis_t&lt;8>, 0>2' contains leftover data, which may result in RTL simulation hanging." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-21T01:16:10.454+0800" type="Warning"/>
+        <logs message="WARNING: Hls::stream 'hls::stream&lt;axis_t&lt;16>, 0>1' contains leftover data, which may result in RTL simulation hanging." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-21T01:12:30.717+0800" type="Warning"/>
+        <logs message="WARNING: Hls::stream 'hls::stream&lt;axis_t&lt;16>, 0>2' contains leftover data, which may result in RTL simulation hanging." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-21T00:46:13.202+0800" type="Warning"/>
+        <logs message="WARNING: Hls::stream 'hls::stream&lt;axis_t&lt;8>, 0>2' contains leftover data, which may result in RTL simulation hanging." projectName="stereo_bm_strm" solutionName="solution1" date="2022-05-21T00:37:31.665+0800" type="Warning"/>
+      </csimLog>
+    </logs>
+  </warningLogs>
+</vivadoHLSLog:LogRoot>
